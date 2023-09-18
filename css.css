@@ -1,0 +1,88 @@
+ul li{
+	list-style: none;
+	display: inline; 
+	margin-left: 100px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.d1{
+	width: 800px;
+	margin: auto;
+}
+.div1{
+	height: 400px;
+	width: 800px;
+	background-color: #87CEFA;
+}
+.div2{
+	height: 100px;
+	width: 800px;
+	background-color: #4682B4;
+}
+.div3{
+	height: 300px;
+	width: 800px;
+	background-color: #87CEFA;
+}
+.div4{
+	height: 150px;
+	width: 800px;
+	background-color: #4682B4;
+}
+.div5{
+	height: 300px;
+	width: 300px;
+	background-color: #4682B4;
+	float: left;
+}
+.div6{
+	height: 300px;
+	width: 500px;
+	background-color: #87CEFA;
+	float: right;
+}
+.div7{
+	height: 100px;
+	width: 800px;
+	background-color: #E0FFFF;
+}
+.div8{
+	height: 150px;
+	width: 800px;
+	background-color: #ADD8E6;
+	margin-top: 300px;
+}
+.div9{
+	height: 60px;
+	width: 800px;
+	background-color: #E0FFFF;
+}
+.div10{
+	height: 100px;
+	width: 800px;
+	background-color: #ADD8E6;
+}
+.div12{
+	height: 300px;
+	width: 800px;
+	background-color: #87CEFA;
+}
+.div11{
+	height: 300px;
+	width: 200px;
+	background-color: #4682B4;
+	float: left;
+}
+.div13{
+	height: 300px;
+	width: 200px;
+	background-color: #4682B4;
+	float: right;
+}
+.div14{
+	height: 100px;
+	width: 800px;
+	background-color: #ADD8E6;
+}
